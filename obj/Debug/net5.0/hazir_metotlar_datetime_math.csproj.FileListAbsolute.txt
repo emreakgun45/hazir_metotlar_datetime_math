@@ -1,0 +1,16 @@
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\bin\Debug\net5.0\hazir_metotlar_datetime_math.exe
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\bin\Debug\net5.0\hazir_metotlar_datetime_math.deps.json
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\bin\Debug\net5.0\hazir_metotlar_datetime_math.runtimeconfig.json
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\bin\Debug\net5.0\hazir_metotlar_datetime_math.runtimeconfig.dev.json
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\bin\Debug\net5.0\hazir_metotlar_datetime_math.dll
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\bin\Debug\net5.0\ref\hazir_metotlar_datetime_math.dll
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\bin\Debug\net5.0\hazir_metotlar_datetime_math.pdb
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\hazir_metotlar_datetime_math.csproj.AssemblyReference.cache
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\hazir_metotlar_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\hazir_metotlar_datetime_math.AssemblyInfoInputs.cache
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\hazir_metotlar_datetime_math.AssemblyInfo.cs
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\hazir_metotlar_datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\hazir_metotlar_datetime_math.dll
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\ref\hazir_metotlar_datetime_math.dll
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\hazir_metotlar_datetime_math.pdb
+C:\Users\Fearl\OneDrive\Desktop\Pratikler\hazir_metotlar_datetime_math\obj\Debug\net5.0\hazir_metotlar_datetime_math.genruntimeconfig.cache
